@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Botoes com Imagem</string>
+    <string-array name="spinner">
+        <item>Biológicas</item>
+        <item>Humanas</item>
+        <item>Exatas</item>
+    </string-array>
+</resources>
